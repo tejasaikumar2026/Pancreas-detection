@@ -14,9 +14,9 @@ import matplotlib.pyplot as plt
 # =====================================================
 # 🔧 DEFAULT LOCATIONS
 # =====================================================
-DEFAULT_DATASET_DIR = r"E:\pancreas\dataset1"
-DEFAULT_MODEL_DIR = r"E:\Panc\curmodels"
-DEFAULT_MODEL_NAME = "resnet18_unet_pancreas.pth"
+DEFAULT_DATASET_DIR = r"default dataset path"
+DEFAULT_MODEL_DIR = r"default model path"
+DEFAULT_MODEL_NAME = r"default model name"
 
 # =====================================================
 # TRAINING CONFIG
