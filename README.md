@@ -4,16 +4,27 @@ It uses a U-Net model with a ResNet-18 encoder to detect tumor regions in CT sca
 Features
 
 Semantic segmentation using U-Net
+
 Binary classification (Tumor / No Tumor)
+
 Image-level prediction using segmentation output
+
 ROC-AUC score calculation
+
 Confusion matrix with performance metrics
+
 Automatic threshold selection
+
 Risk level classification:
+
 No Tumor
+
 Low Risk
+
 Medium Risk
+
 High Risk
+
 Interactive visualization for predictions
 
 🛠️ Installation
