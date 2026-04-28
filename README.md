@@ -133,6 +133,9 @@ Optimized for moderate training time
  Future Improvements
 
 EfficientNet / Transformer-based models
-M ulti-class tumor staging
+
+Multi-class tumor staging
+
 3D CT scan support
+
 Clinical validation
